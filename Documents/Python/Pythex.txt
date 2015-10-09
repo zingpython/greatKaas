@@ -1,0 +1,13 @@
+byte academy Matched 3 ways
+[a-y]{4,7}
+byte academy\b
+[b-ya-y]
+
+an 8 character password, do not allow non word characters
+^(?=.*[A-Z])(?=.*[0-9]).+$
+
+an 8 character password that has at least 1 number and 1 capital letter
+[a-zA-Z0-9]{8}
+
+Find an email adress
+(?=.*[@])(?=.*[a-zA-Z])(?=.*[.]).+

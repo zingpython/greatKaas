@@ -47,8 +47,7 @@ Exercise 8:
 Write a Python program which iterates the integers from 1 to 100. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 Exercise 9: 
-A prime number is an integer greater than 1 that is only divisible by one and itself. Write a function that determines whether or not its parameter is prime, returning True if it is, and False otherwise. Write a main program that reads an integer from the user and displays a message indicating whether or not it is prime. Ensure that the main program will not run if the file containing your solution is imported
-into another program.
+A prime number is an integer greater than 1 that is only divisible by one and itself. Write a program that goes from 1-100 and determines whether or not a number is prime, printing "Prime" if it is, and the number otherwise.
 
 Exercise 10: Multiplication Table
 In this exercise you will create a program that displays a multiplication table that shows the products of all combinations of integers from 1 times 1 up to and including 10 times 10. Your multiplication table should include a row of labels across the top of it containing the numbers 1 through 10. It should also include labels down the left side consisting of the numbers 1 through 10. 

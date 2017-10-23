@@ -27,7 +27,7 @@ Display a message indicating the type of the triangle.
 Exercise 6: 
 Write a Python program to construct the following pattern, using a nested for loop.
 
-  * 
+  \* 
   * * 
   * * * 
   * * * * 

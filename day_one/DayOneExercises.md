@@ -27,15 +27,15 @@ Display a message indicating the type of the triangle.
 Exercise 6: 
 Write a Python program to construct the following pattern, using a nested for loop.
 
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * 
-* * * 
-* * 
-*
+    * 
+    * * 
+    * * * 
+    * * * * 
+    * * * * * 
+    * * * * 
+    * * * 
+    * * 
+    *
 
 Exercise 7: 
 This exercise examines the process of identifying the maximum value in a collection of integers. Each of the integers will be randomly selected from the numbers between 1 and 100. The collection of integers may contain duplicate values, and some of the
@@ -47,15 +47,14 @@ Exercise 8:
 Write a Python program which iterates the integers from 1 to 100. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 Exercise 9: 
-A prime number is an integer greater than 1 that is only divisible by one and itself. Write a function that determines whether or not its parameter is prime, returning True if it is, and False otherwise. Write a main program that reads an integer from the user and displays a message indicating whether or not it is prime. Ensure that the main program will not run if the file containing your solution is imported
-into another program.
+A prime number is an integer greater than 1 that is only divisible by one and itself. Write a program that goes from 1-100 and determines whether or not a number is prime, printing "Prime" if it is, and the number otherwise.
 
 Exercise 10: Multiplication Table
 In this exercise you will create a program that displays a multiplication table that shows the products of all combinations of integers from 1 times 1 up to and including 10 times 10. Your multiplication table should include a row of labels across the top of it containing the numbers 1 through 10. It should also include labels down the left side consisting of the numbers 1 through 10. 
-When completing this exercise you will probably find it helpful to be able to print out a value without moving down to the next line. This can be accomplished by added end="" as the last parameter to your print statement. For example, print("A") will display the letter A and then move down to the next line. The statementprint("A", end="")willdisplaytheletterAwithoutmovingdown to the next line, causing the next print statement to display its result on the same line as the letter A.
+When completing this exercise you will probably find it helpful to be able to print out a value without moving down to the next line. This can be accomplished by added end="" as the last parameter to your print statement. For example, print("A") will display the letter A and then move down to the next line. The statement print("A", end="") will display the letter A without moving down to the next line, causing the next print statement to display its result on the same line as the letter A.
 
 Exercise 11:
-A string is a palindrome if it is identical forward and backward. For example ìannaî, ìcivicî, ìlevelî and ìhannahî are all examples of palindromic words. Write a program that reads a string from the user and uses a loop to determines whether or not it is a
+A string is a palindrome if it is identical forward and backward. For example ‚Äúanna‚Äù, ‚Äúcivic‚Äù, ‚Äúlevel‚Äù and ‚Äúhannah‚Äù are all examples of palindromic words. Write a program that reads a string from the user and uses a loop to determines whether or not it is a
 palindrome. Display the result, including a meaningful output message.
 
 

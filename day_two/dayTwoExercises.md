@@ -1,4 +1,5 @@
 Exercise 1:
+
 One of the first known examples of encryption was used by Julius Caesar. Caesar needed to provide written instructions to his generals, but he didn’t want his enemies to learn his plans if the message slipped into their hands. As result, he developed what later became known as the Caesar Cipher.
 
 The idea behind this cipher is simple (and as a result, it provides no protection against modern code breaking techniques). Each letter in the original message is shifted by 3 places. As a result, A becomes D, B becomes E, C becomes F, D becomes G, etc. The last three letters in the alphabet are wrapped around to the beginning: X becomes A, Y becomes B and Z becomes C. Non-letter characters are not modified by the cipher.
@@ -10,13 +11,16 @@ Write a program that implements a Caesar cipher. Allow the user to supply the me
 ```
 
 Exercise 2: 
+
 Many people do not use capital letters correctly, especially when typing on small devices like smart phones. In this exercise, you will write a function that capitalizes the appropriate characters in a string. A lowercase “i” should be replaced with an uppercase “I” if it is both preceded and followed by a space. The first character in the string should also be capitalized, as well as the first non-space character after a “.”, “!” or “?”. For example, if the function is provided with the string “what time do i have to be there? what’s the address?” then it should return the string “What time do I have to be there? What’s the address?”. Include a main program that reads
 a string from the user, capitalizes it using your function, and displays the result.
 
 Exercise 3:
+
 Two words are anagrams if they contain all of the same letters, but in a different order. For example, “evil” and “live” are anagrams because each contains one e, one i, one l, and one v. Create a program that reads two strings from the user, determines whether or not they are anagrams, and reports the result.
 
 Exercise 4:
+
 The Sieve of Eratosthenes is a technique that was developed more than 2,000 years ago to easily find all of the prime numbers between 2 and some limit, say 100. 
 
 A description of the algorithm follows:
@@ -44,6 +48,7 @@ https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 ```
 
 Exercise 5:
+
 Did you know our numeral system - the symbols we use to represent numbers are called
 
 Arabic numerals? Fun fact, because now it gets serious. You're going to be translating Arabic to Italian.

@@ -23,7 +23,7 @@ Use dict.get() method to lookup a key with default value.
 
 Exercise 2:
 
-Write a program that takes a filename and a parameter `n` and prints the `n` most common words in the file, and the count of their occurrences, in descending order.
+Write a function that takes a filename and an integer `n` and prints the `n` most common words in the file, and the count of their occurrences, in descending order.
 
 For example:
 
@@ -75,22 +75,6 @@ Sample Output:
 You'll find a text file `traffic.txt` in this repo. Import this text file and parse it to get the results.
 
 When you are done solving the problem, write your output to another text file and save it in the repo.
-
-
-Exercise 4:
-
-Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].
-
-Exercise 5:
-
-Read the data from revenue.csv file and calulate profit for each day in terminal.
-Example:
-5-Jul-17:     526.23
-6-Jul-17:       9.88
-7-Jul-17:     264.76
-8-Jul-17:     552.44
-Hint: learn how to use csv.DictReader()
-
 
 
 

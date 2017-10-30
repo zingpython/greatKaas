@@ -22,3 +22,5 @@ Write a function that sorts a list using the Merge Sort.
 Exercise 4:
 
 Write a function that take in a sorted list and a value to search for. Then uses the binary search to check each item in the list. If the item is not found then return False, otherwise return the value.
+
+	https://en.wikipedia.org/wiki/Binary_search_algorithm
